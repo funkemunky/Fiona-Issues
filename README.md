@@ -9,6 +9,7 @@ Issue Format:
 ```
  Fiona Version:
  ProtocolLib Version:
+ Plugin List:
  Description:
  Screenshot/Video Media:
  ```
